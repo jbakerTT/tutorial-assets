@@ -17,4 +17,4 @@ The images stored here support various materials, including:
 
 ## License
 
-Unless otherwise specified, all images in this repository follow the same license as the main [TT-Metal repository](https://github.com/tenstorrent/tt-metal).
+Copyright 2025 Tenstorrent AI ULC.  Licensed under Creative Commons Attribution 4.0 International Public License.
